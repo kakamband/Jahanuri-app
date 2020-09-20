@@ -1,5 +1,3 @@
-# Jahanuri-app
-
 # JAHANURI-APP
 
 <p align="center" >
